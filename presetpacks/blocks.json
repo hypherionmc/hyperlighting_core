@@ -1,0 +1,159 @@
+{
+  "enabled": true,
+  "lights": [
+    {
+      "name": "minecraft:redstone_lamp",
+      "r": 155,
+      "g": 155,
+      "b": 255,
+      "radius": 10,
+      "state": {
+        "property": "lit",
+        "value": "true"
+      }
+    },
+    {
+      "name": "minecraft:glowstone",
+      "r": 155,
+      "g": 155,
+      "b": 155,
+      "radius": 14,
+      "state": {
+        "property": "lit",
+        "value": "false"
+      }
+    },
+    {
+      "name": "minecraft:campfire",
+      "r": 155,
+      "g": 155,
+      "b": 0,
+      "radius": 14,
+      "state": {
+        "property": "lit",
+        "value": "true"
+      }
+    },
+    {
+      "name": "minecraft:soul_campfire",
+      "r": 10,
+      "g": 10,
+      "b": 255,
+      "radius": 14,
+      "state": {
+        "property": "lit",
+        "value": "true"
+      }
+    },
+    {
+      "name": "minecraft:redstone_wire",
+      "r": 255,
+      "g": 0,
+      "b": 0,
+      "radius": 5,
+      "state": {
+        "property": "power",
+        "value": "15"
+      }
+    },
+    {
+      "name": "minecraft:torch",
+      "r": 155,
+      "g": 155,
+      "b": 0,
+      "radius": 14,
+      "state": {
+        "property": "",
+        "value": ""
+      }
+    },
+    {
+      "name": "minecraft:wall_torch",
+      "r": 155,
+      "g": 155,
+      "b": 0,
+      "radius": 14,
+      "state": {
+        "property": "",
+        "value": ""
+      }
+    },
+    {
+      "name": "minecraft:soul_torch",
+      "r": 10,
+      "g": 10,
+      "b": 255,
+      "radius": 14,
+      "state": {
+        "property": "",
+        "value": ""
+      }
+    },
+    {
+      "name": "minecraft:soul_wall_torch",
+      "r": 10,
+      "g": 10,
+      "b": 255,
+      "radius": 14,
+      "state": {
+        "property": "",
+        "value": ""
+      }
+    },
+    {
+      "name": "minecraft:soul_lantern",
+      "r": 10,
+      "g": 10,
+      "b": 255,
+      "radius": 14,
+      "state": {
+        "property": "",
+        "value": ""
+      }
+    },
+    {
+      "name": "minecraft:lantern",
+      "r": 155,
+      "g": 155,
+      "b": 0,
+      "radius": 14,
+      "state": {
+        "property": "",
+        "value": ""
+      }
+    },
+    {
+      "name": "minecraft:redstone_torch",
+      "r": 155,
+      "g": 0,
+      "b": 0,
+      "radius": 8,
+      "state": {
+        "property": "",
+        "value": ""
+      }
+    },
+    {
+      "name": "minecraft:redstone_wall_torch",
+      "r": 155,
+      "g": 0,
+      "b": 0,
+      "radius": 8,
+      "state": {
+        "property": "",
+        "value": ""
+      }
+    },
+    {
+      "name": "minecraft:sea_lantern",
+      "r": 50,
+      "g": 50,
+      "b": 255,
+      "radius": 14,
+      "state": {
+        "property": "",
+        "value": ""
+      }
+    }
+  ]
+}

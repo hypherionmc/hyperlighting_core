@@ -1,0 +1,40 @@
+{
+  "enabled": true,
+  "lights": [
+    {
+      "name": "minecraft:torch",
+      "r": 155,
+      "g": 155,
+      "b": 0,
+      "radius": 14
+    },
+    {
+      "name": "minecraft:soul_torch",
+      "r": 10,
+      "g": 10,
+      "b": 255,
+      "radius": 14
+    },
+    {
+      "name": "minecraft:redstone_torch",
+      "r": 155,
+      "g": 0,
+      "b": 0,
+      "radius": 8
+    },
+    {
+      "name": "minecraft:soul_lantern",
+      "r": 10,
+      "g": 10,
+      "b": 155,
+      "radius": 14
+    },
+    {
+      "name": "minecraft:lantern",
+      "r": 155,
+      "g": 155,
+      "b": 0,
+      "radius": 14
+    }
+  ]
+}
